@@ -14,3 +14,5 @@ In addition, is possible give an instance (individual/row) of the given dataset 
 
 In the following link you can see online how is the app.
 [https://datascience-edm.shinyapps.io/ShinyApp_EDM/](https://datascience-edm.shinyapps.io/ShinyApp_EDM/)
+
+Project done with @ynareth
